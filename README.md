@@ -1,2 +1,4 @@
 # Irish-Potatoes-Guard-AI
 Irish-PotatoGuardAI is a groundbreaking machine learning initiative focused on elevating the management of Irish potato crops. This repository serves as the hub for the project's codebase, housing the intelligent system designed to harness the capabilities of artificial intelligence and data-driven insights.
+By accurately identifying diseases that affect Irish potato crops and offering actionable recommendations, Irish-PotatoGuardAI empowers farmers to make informed decisions. Through a synergy of comprehensive Irish potato disease datasets and expert insights from seasoned growers, this platform stands as an accessible tool to optimize yields, foster sustainable agriculture, and fortify the global potato supply chain. Join us in safeguarding potato harvests and ensuring a resilient food future through cutting-edge technology and collaborative efforts.
+
